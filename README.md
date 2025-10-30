@@ -1,6 +1,6 @@
 # 📊 Sales Dashboard for ABC Company (2020–2022)
 
-![Sales Dashboard Preview](Sales%20of%20ABC%20Company.png)
+![Sales Dashboard Preview](https://github.com/codewithranjan/Sales-report-of-ABC-Compant/blob/main/Sales%20of%20ABC%20Company.png))
 
 ## 🧾 Overview
 This **Power BI Dashboard** provides a comprehensive analysis of the **sales performance of ABC Company** from **2020 to 2022**.  
