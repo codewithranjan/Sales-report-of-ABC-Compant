@@ -59,7 +59,7 @@ It highlights insights into revenue, cost, quantity sold, regional performance, 
 ## 📁 File Information
 | File Name | Description |
 |------------|--------------|
-| `manit_dashboard.pbix` | Power BI Dashboard file |
+| `Sales Dashboard of ABC Company.pbix` | Power BI Dashboard file |
 | `Sales of ABC Company.png` | Dashboard Preview Image |
 | `README.md` | Documentation file |
 
@@ -75,7 +75,7 @@ It highlights insights into revenue, cost, quantity sold, regional performance, 
 
 ## 📬 Author
 **Rajeev Ranjan**  
-📧 rajeev.ranjan@manit.ac.in  
+📧 rajeev.k.s.ranjan@gmail.com
 🎓 Maulana Azad National Institute of Technology (MANIT), Bhopal  
 
 ---
